@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "楊　暢　ヨウ　チョウ/Chang Yang"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+**楊　暢　ヨウ　チョウ/Chang Yang**  
 東京大学大学院経済学研究科入学予定（2025.4）  
 研究分野：労働経済学、応用計量経済学  
 
